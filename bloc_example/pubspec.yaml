@@ -12,6 +12,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   rxdart: ^0.27.2
   meta: ^1.16.0
+  equatable: ^2.0.7
 
 dev_dependencies:
   flutter_test:
